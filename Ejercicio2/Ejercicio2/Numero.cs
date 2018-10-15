@@ -33,6 +33,7 @@ namespace Ejercicio2
         }
 
 
+
         //metodos
         public int Añade(int add)
         {
