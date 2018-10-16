@@ -39,6 +39,11 @@ namespace Ejercicio_6
             this.modelo = modelo;
         }
 
-
+        //public string inform()
+        //{
+        //    Console.WriteLine("La marca del coche es: " + Getmarca());
+        //    Console.WriteLine("La modelo del coche es: " + Getmodelo());
+            
+        //}
     }
 }

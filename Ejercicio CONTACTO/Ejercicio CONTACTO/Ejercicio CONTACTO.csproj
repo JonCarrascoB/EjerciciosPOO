@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{51765014-2661-47CF-B928-2A57CB299FEA}</ProjectGuid>
+    <ProjectGuid>{72358919-067B-4FDE-B5AB-755CE197E7FB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicio_6</RootNamespace>
-    <AssemblyName>Ejercicio 6</AssemblyName>
+    <RootNamespace>Ejercicio_CONTACTO</RootNamespace>
+    <AssemblyName>Ejercicio CONTACTO</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Coche.cs" />
-    <Compile Include="Consumo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
